@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: youssouf
+Build-Jdk: 11.0.7
+Implementation-Title: twmsos
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.twmicronics
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/twmsos
+Created-By: Maven Integration for Eclipse
+
